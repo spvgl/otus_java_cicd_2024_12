@@ -1,1 +1,1 @@
-# otus_java_cicd_2024_12
+# otus_java_cicd_2024_10
